@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Scoobydowsky
+- 👋 Hi, I’m Tomasz Woytkowiak (@Scoobydowsky)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me :<br/>
