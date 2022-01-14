@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me :<br/>
 <ul>
-<li><a href="#">LinkedIn</a></li>
+<li><a href="www.linkedin.com/in/tomek-woytkowiak/">LinkedIn</a></li>
 <li><a href="#">My website</a></li>
 </ul>
 
