@@ -4,7 +4,7 @@
 - 📫 How to reach me :<br/>
 <ul>
 <li><a href="http:\\www.linkedin.com/in/tomek-woytkowiak/">LinkedIn</a></li>
-<li><a href="#">My website</a></li>
+<!-- <li><a href="#">My website</a></li> -->
 </ul>
 
 
