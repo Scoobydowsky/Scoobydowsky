@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tomasz Woytkowiak (@Scoobydowsky)
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php and c/c++ (for arduino)
+- 🌱 I’m currently learning php and c/c++ (only for arduino purposes (hobby))
 - 📫 How to reach me :<br/>
 <ul>
 <li><a href="http:\\www.linkedin.com/in/tomek-woytkowiak/">LinkedIn</a></li>
