@@ -54,7 +54,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
 # Links
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/tomek-woytkowiak/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tomek-woytkowiak/)
+
+[//]: # ([![Website]&#40;https://img.shields.io/badge/Website-3693F3?style=for-the-badge&logo=iCloud&logoColor=white&#41;]&#40;#&#41;)
+[//]: # ([![Website]&#40;https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=WordPress&logoColor=white&#41;]&#40;#&#41;)
 
 <!---
 Scoobydowsky/Scoobydowsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
