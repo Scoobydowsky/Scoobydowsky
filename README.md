@@ -1,4 +1,4 @@
-# 👋 Hello im Tomek Woytkowiak 
+# 👋 Hello I'm Tomek Woytkowiak 
 
 
 ## 🛠️ Skills
