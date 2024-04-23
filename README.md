@@ -44,7 +44,7 @@
 
 ### Personal Macbook
 ![Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gt-304M](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![gt-304M](https://img.shields.io/badge/NVIDIA-GT_304M-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
