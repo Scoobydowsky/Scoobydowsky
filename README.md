@@ -39,19 +39,23 @@
 ### Personal
 ![i9-13th-gen](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-4070](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![32GB RAM](https://img.shields.io/badge/32_GB-Ram-blue?style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ### Personal Macbook
 ![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![HD Graphics 6000](https://img.shields.io/badge/Intel-HD_Graphics_6000-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![MacOs](https://img.shields.io/badge/Monetery-000000?logo=macos)
+![4GB RAM](https://img.shields.io/badge/4GB-RAM-blue?style=for-the-badge)
+![MacOs](https://img.shields.io/badge/Monetery-000000?style=for-the-badge&logo=macos)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
 # Links
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftomek-woytkowiak%2F)
+
 <!---
 Scoobydowsky/Scoobydowsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
