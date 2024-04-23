@@ -44,8 +44,9 @@
 
 ### Personal Macbook
 ![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![HD Graphics 6000](https://img.shields.io/badge/Intel-HD-Graphics-6000-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![HD Graphics 6000](https://img.shields.io/badge/Intel-HD_Graphics_6000-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![MacOs](https://img.shields.io/badge/Monetery-000000?logo=macos)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
