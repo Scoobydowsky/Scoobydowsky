@@ -25,6 +25,7 @@
 
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
 
 <!---
