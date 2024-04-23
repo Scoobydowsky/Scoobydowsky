@@ -1,3 +1,4 @@
+### About Me
 - 👋 Hi, I’m Tomasz Woytkowiak (@Scoobydowsky)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning php and c/c++ (only for arduino purposes (hobby))
@@ -31,10 +32,18 @@
 ### IDE's
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
+
+## Workspaces 
+### Work
+
+### Personal
+
+### Personal Macbook
+
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
-
+# Links
 <!---
 Scoobydowsky/Scoobydowsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
