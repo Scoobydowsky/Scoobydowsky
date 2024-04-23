@@ -35,7 +35,7 @@
 
 ## Workspaces 
 ### Work
-
+#### TBA
 ### Personal
 ![i9-13th-gen](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-4070](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -43,8 +43,10 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ### Personal Macbook
-![Core 2 Duo](https://img.shields.io/badge/Intel-Core_2_Duo-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gt-304M](https://img.shields.io/badge/NVIDIA-GT_304M-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![HD Graphics 6000](https://img.shields.io/badge/Intel-HD-Graphics-6000-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![MacOs](https://img.shields.io/badge/Monetery-000000?logo=macos)
+
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scoobydowsky&show_icons=true&locale=en&layout=compact" alt="scoobydowsky" /></p>
 
