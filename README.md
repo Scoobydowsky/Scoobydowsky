@@ -8,6 +8,7 @@
 <li><a href="https://scoobydowsky.github.io">Github pages</a></li>
 <li><a href="https://hackaday.io/Scoobydowsky">Hackaday.io</a></li>
 </ul>
+
 ##Skills
 
 ### Languages
