@@ -40,7 +40,7 @@
 ![i9-13th-gen](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![gtx-4070](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![vs-code](https://img.shields.io/badge/
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ### Personal Macbook
 
