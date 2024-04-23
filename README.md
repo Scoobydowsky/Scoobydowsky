@@ -37,6 +37,7 @@
 ### Work
 
 ### Personal
+![i9-13th-gen](https://img.shields.io/badge/Intel-Core_i9_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 ### Personal Macbook
 
