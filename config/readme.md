@@ -3,7 +3,7 @@
 ## Checklist Software
 
 - [ ] PhpStorm  
-- [ ] VsCode  
+- [ ] Visual Studio Code  
 - [ ] DockerDesktop
 - [ ] Hyper
 - [ ] WSL2 with Ubuntu
