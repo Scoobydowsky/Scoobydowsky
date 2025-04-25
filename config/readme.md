@@ -8,7 +8,7 @@
 - [ ] Hyper
 - [ ] WSL2 with Ubuntu
   
-## Checklist Addons WSL
+## Checklist Addons (WSL+UBUNTU / MAC)
 
 - [ ] OhMyZsh
 - [ ] Powerlevel10kTheme
