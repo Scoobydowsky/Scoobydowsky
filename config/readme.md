@@ -8,3 +8,10 @@
 - [ ] Hyper
 - [ ] WSL2 with Ubuntu
   
+## Checklist Addons WSL
+
+- [ ] OhMyZsh
+- [ ] Powerlevel10kTheme
+- [ ] Superfile
+- [ ] docker-highlights
+      
