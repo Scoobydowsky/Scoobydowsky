@@ -6,7 +6,7 @@
 - [ ] Visual Studio Code  
 - [ ] DockerDesktop
 - [ ] Hyper
-- [ ] WSL2 with Ubuntu
+- [ ] WSL2 with Ubuntu (WINDOWS ONLY)
   
 ## Checklist Addons (WSL+UBUNTU / MAC)
 
