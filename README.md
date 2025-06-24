@@ -36,11 +36,11 @@
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ### :house: Personal Macbook
-![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i5_5th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![HD Graphics 6000](https://img.shields.io/badge/Intel-HD_Graphics_6000-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![4GB RAM](https://img.shields.io/badge/4GB-RAM-blue?style=for-the-badge)
+![i5-5th-gen](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Iris Plus Graphics](https://img.shields.io/badge/Intel-Iris_Plus_Graphics-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![32GB RAM](https://img.shields.io/badge/32GB-RAM-blue?style=for-the-badge)
 
-![MacOs](https://img.shields.io/badge/Monetery-000000?style=for-the-badge&logo=macos)
+![MacOs](https://img.shields.io/badge/Sequoia-000000?style=for-the-badge&logo=macos)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
 ## :chart_with_upwards_trend:Stats
